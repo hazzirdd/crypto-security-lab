@@ -1,0 +1,12 @@
+Part 3 - Cybersecurity Research
+Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+
+Give an overview of what the breach was and the motivations behind it.
+
+Explain where the “tech flaws” were, and how hackers were able to breach their system.
+
+What has the company done to protect against that vulnerability since?
+
+
+
+In Augst 2014, two russian hackers got into millions of email accounts for Yahoo.com. It seems the motivations were probably after critical information, like users credit cards, passwords or bank data. They were able to steal users contacts and sent them all marketing spam. They redirected users traffic sending them to some website, giving the hackers commission for directing them there. The hackers were able to breach yahoo because of apparent bad security in the software. The hackers sent out malicious links to a number of employees, all it took was one of the to click it. Since then, Yahoo had to unencrypt security questions and answers. They also have since set up a 2-step authentication process to send a security code to the users phone.
